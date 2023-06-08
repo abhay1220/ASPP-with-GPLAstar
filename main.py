@@ -8,7 +8,7 @@ from GPLAstar import GPLAstar
 from centralizedAstar import centralizedAstar
 
 import csv, time
-from Astar import BestFirstSearch
+from ultis import BestFirstSearch
 from graph import graph
 
 

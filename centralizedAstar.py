@@ -10,7 +10,7 @@ from networkx.algorithms.tree.mst import prim_mst_edges
 import numpy as np
 from numpy.lib.function_base import append
 import sys
-from Astar import PriorityQueueHeap
+from ultis import PriorityQueueHeap
 from graph import graph
 
 import time
