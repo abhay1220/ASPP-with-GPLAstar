@@ -3,7 +3,7 @@ import numpy as np
 import random
 
 from urllib3 import Retry
-#NAMOA*
+
 
 
 class graph():

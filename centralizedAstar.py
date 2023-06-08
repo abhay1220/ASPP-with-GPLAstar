@@ -1,9 +1,4 @@
-'''
-With relabeled nodes
-Visit time in dominance rule
-Updated REF
-updated SV_termination
-'''
+
 
 from networkx.algorithms.reciprocity import reciprocity
 from networkx.algorithms.tree.mst import prim_mst_edges
